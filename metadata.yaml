@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41693'
     url: http://www.gutenberg.org/2009/agents/41693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42449#My-Wonderful-Visit
 gutenberg_issued: '2013-03-31'
 gutenberg_type: Text
 identifiers:
