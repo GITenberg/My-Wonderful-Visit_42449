@@ -1,0 +1,27 @@
+_repo: My-Wonderful-Visit_42449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chaplin, Charlie
+    alias: Chaplin, Charles Spencer
+    birthdate: 1889
+    deathdate: 1977
+    gutenberg_agent_id: '41693'
+    url: http://www.gutenberg.org/2009/agents/41693
+description: ''
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Chaplin, Charlie, -- 1889-1977 -- Travel -- Europe'
+title: My Wonderful Visit
+url: http://www.gutenberg.org/ebooks/42449
